@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://k-ash-ish.github.io/404-Not-Found-devChallenges/">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY/edit?solutionId=s4d5qzVd3eVnuLZJaLNS">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](Desktop.png)
+![screenshot](Desktop.PNG)
 
 
 
