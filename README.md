@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website -Work in Progress [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://github.com/K-ash-ish})
+- Twitter [@your-twitter](https://twitter.com/Kashish90879490)
