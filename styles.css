@@ -1,0 +1,104 @@
+body{
+    margin: 30px;
+}
+
+h1{
+    font-size: 1.3rem;
+    font-family: 'Inconsolata', monospace;
+    text-transform: uppercase;
+    color: #333333;
+}
+h2{
+    font-family: 'Space Mono', monospace;
+    font-size: 64px;
+    color: #333333;
+    
+}
+p{
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    color: #4F4F4F;
+    margin-right: 200px;
+   
+}
+a{
+    text-decoration: none;
+    
+}
+button{
+    font-family: 'Space Mono', monospace;
+    background-color: #333333;
+    color: white;
+    padding: 25px 40px 25px 40px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+footer{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 14px;
+    color: #BDBDBD;
+    
+}
+
+.container{
+    display: flex;
+    max-width: 80%;
+    margin: 100px auto;
+}
+.image-container{
+   
+}
+.information{
+    
+}
+
+img{
+    width: 500px;
+}
+
+@media (max-width:1160px) {
+    img{
+        width: 400px;
+    }
+    h2{
+        font-size: 42px;
+    }
+    p{
+        margin:auto;
+    }
+    body{
+        margin:20px;
+    }
+}
+
+
+
+
+@media (max-width:920px) {
+    
+    h2{
+        font-size: 48px;
+    }    
+
+    p{
+        font-size: 18px;
+        margin: auto;
+    }
+    body{
+        margin: 20px;
+    }
+    .container{
+        display: flex;
+        flex-direction: column;
+        margin:0 auto;
+    }
+    img{
+        max-width: 100%;
+        
+    }
+    button{
+        margin-bottom: 50px;
+    }
+}
