@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website -Work in Progress [your-website.com](https://{your-web-site-link})
-- GitHub [@K-ash-ish](https://github.com/K-ash-ish})
+- GitHub [@K-ash-ish](https://github.com/K-ash-ish)
 - Twitter [@Kashish](https://twitter.com/Kashish90879490)
