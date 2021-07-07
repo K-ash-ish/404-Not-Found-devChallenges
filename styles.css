@@ -33,6 +33,7 @@ button{
     padding: 25px 40px 25px 40px;
     cursor: pointer;
     margin-top: 50px;
+    border:none;
 }
 footer{
     font-family: 'Montserrat', sans-serif;
